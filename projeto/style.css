@@ -1,0 +1,30 @@
+.card-img {
+    height: 25vh;
+}
+
+#count-prod {
+    margin: 10px;
+    columns: 4;
+    column-gap: 1vh;
+}
+
+.card {
+    background-color: gray;
+    
+    height: 45vh;
+    width: 24vh;
+    padding-top: 1vh;
+    text-align: center;
+    margin-bottom: 1.5vh;
+}
+
+.card-txt {
+    font-size: 1.8vh;
+    line-height: 1vh;
+}
+
+button {
+    font-size: 1.8vh;
+    height: 3vh;
+    width: 10vh;
+}
