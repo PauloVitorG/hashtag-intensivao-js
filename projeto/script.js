@@ -71,7 +71,7 @@ for (let index = 0; index < catalogo.length; index++) {
     const cardprod = `<div class="card">
     <img src="image/${element.imagem}" alt="Produto 1" class="card-img">
     <div class="card-txt">
-    <p>${element.marca}</p>
+    <p class='marca'>${element.marca}</p>
     <p>${element.nome}</p>
     <p>${element.preco}</p>
     <button>Adicionar</button>
