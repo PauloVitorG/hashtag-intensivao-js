@@ -7,15 +7,13 @@
 }
 
 #count-prod {
-    background-color: black;
     margin: 10px;
-    padding: 20px;
     columns: 4;
     column-gap: 1vh;
 }
 
 .card {
-    background-color: rgb(174, 191, 204);
+    background-color: gray;
     
     height: 45vh;
     width: 24vh;
